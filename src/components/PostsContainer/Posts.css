@@ -52,5 +52,10 @@
 .like-number {
   width: 100px;
   margin: 15px 0px;
+  color: 'black';
   font-size: 16px;
+}
+
+.add-like {
+  color: 'red';
 }
